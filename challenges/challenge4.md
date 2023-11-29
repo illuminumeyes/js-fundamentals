@@ -4,3 +4,5 @@ In a markdown or text file called `challenge4.md` or `challenge4.txt`, write an 
 - how this concept applies in JS.
 - what the difference is between declaring a function and calling it
 - Bonus: give examples for each explanation
+
+First class functions are functions that are a value, they are just another type of object
